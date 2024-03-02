@@ -1,7 +1,10 @@
 # DSA in Javascript - STRIVER
 
 ## Arrays
-1. 
+1.
+2.
+3.
+4.
 ## Strings
 ## Linked Lists
 ## Binary Search
